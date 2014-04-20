@@ -12,10 +12,12 @@ appvideo2: x1S2R46cHjI
 The OpenIntents file manager allows you to browse your SD card, create directories, rename, move, and delete files. It also acts as an extension to other applications to display "Open" and "Save" dialogs.
 
 OI File Manager integrates into
+
 *   OI ConvertCSV.
 *   OI Notepad.
 
 Features:
+
 *   Show list of files.
 *   Icons for home (root) directory and SD card.
 *   Directory structure displayed through clickable buttons.
@@ -27,17 +29,15 @@ Features:
 *   Move files.
 *   Send files by email.
  
-<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/1.png" width="150px"/>
+<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/1.png" width="250px"/>
 
-<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/2.png" width="150px"/>
+The directory structure is displayed at the top. Click on a button to jump to that directory directly. Click on the current directory to edit the directory in a text field.
 
-<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/3.png" width="150px"/>
+<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/2.png" width="250px"/>
 
-<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/4.png" width="150px"/>
+Long-click on an item opens the menu with various options.
 
-<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/5.png" width="150px"/>
-
-<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/6.png" width="150px"/>
+<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/3.png" width="250px"/>
 
 
 ### Information for developers
@@ -57,12 +57,15 @@ TestFileManager is a small sample application that showcases interaction of thir
 
 It shows a (dummy) input field for the file name or folder name, and three buttons to initiate the "open", "save", and "select folder" intents. Once OI File Manager returns, the selected name is put into the input field. No data is actually opened or saved, since this is just a small demo.
 
+<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/4.png" width="250px"/>
 
 This is how the "open" activity can look like:
 
+<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/5.png" width="250px"/>
 
 And this is how you can select a folder:
 
+<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/6.png" width="250px"/>
 
 Note that you can customize the activities by proving extras for the title and the button text.
 
