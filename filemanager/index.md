@@ -27,17 +27,17 @@ Features:
 * Move files.
 * Send files by email.
  
-!(https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/1.png)
+<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/1.png" width="150px"/>
 
-!(https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/2.png)
+<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/2.png" width="150px"/>
 
-!(https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/3.png)
+<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/3.png" width="150px"/>
 
-!(https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/4.png)
+<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/4.png" width="150px"/>
 
-!(https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/5.png)
+<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/5.png" width="150px"/>
 
-!(https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/6.png)
+<img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/6.png" width="150px"/>
 
 
 ### Information for developers
