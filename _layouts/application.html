@@ -1,12 +1,14 @@
+<html>
 <head>
-<title>{{apptitle}}</title>
+<title>{{page.apptitle}}</title>
 </head>
 <body>
-<h1>{{apptitle}}</h1>
-<img src="https://raw.githubusercontent.com/openintents/{{repo}}/master/promotion/icons/ic_launcher_ICS_fireworks.png"/>
-Current version: {{appversion}}
+<h1>{{page.apptitle}}</h1>
+<img src="https://raw.githubusercontent.com/openintents/{{page.repo}}/master/promotion/icons/ic_launcher_ICS_fireworks.png"/>
+Current version: {{page.appversion}}
 {{content}}
 {::comment}
-{ remote_release_notes https://raw.githubusercontent.com/openintents/{{repo}}/master/{{appdir}}/readme.txt }
+{ remote_release_notes https://raw.githubusercontent.com/openintents/{{page.repo}}/master/{{page.appdir}}/readme.txt }
 {:/comment}
 </body>
+</html>
