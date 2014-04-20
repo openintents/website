@@ -12,20 +12,20 @@ appvideo2: x1S2R46cHjI
 The OpenIntents file manager allows you to browse your SD card, create directories, rename, move, and delete files. It also acts as an extension to other applications to display "Open" and "Save" dialogs.
 
 OI File Manager integrates into
-*OI ConvertCSV.
-*OI Notepad.
+*   OI ConvertCSV.
+*   OI Notepad.
 
 Features:
-* Show list of files.
-* Icons for home (root) directory and SD card.
-* Directory structure displayed through clickable buttons.
-* Alternatively, the current path can be displayed in an input field.
-* Supports PICK_FILE and PICK_DIRECTORY intents so that other applications can use OI File Manager.
-* Support for many file endings and mime types.
-* "Back" key works for directories clicked in the list.
-* Create directory, rename, delete files.
-* Move files.
-* Send files by email.
+*   Show list of files.
+*   Icons for home (root) directory and SD card.
+*   Directory structure displayed through clickable buttons.
+*   Alternatively, the current path can be displayed in an input field.
+*   Supports PICK_FILE and PICK_DIRECTORY intents so that other applications can use OI File Manager.
+*   Support for many file endings and mime types.
+*   "Back" key works for directories clicked in the list.
+*   Create directory, rename, delete files.
+*   Move files.
+*   Send files by email.
  
 <img src="https://raw.githubusercontent.com/openintents/filemanager/master/promotion/OIFM%20site%20screenshots/1.png" width="150px"/>
 
